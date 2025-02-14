@@ -4,6 +4,10 @@
 </div>
 
 <br>
+
+## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
+
+![header_](https://user-images.githubusercontent.com/80106274/155994781-7c22a80e-99b6-4e2e-a288-a706e1818289.png)
 <!--
 **Lakshay309/Lakshay309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
