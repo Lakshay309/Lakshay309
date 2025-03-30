@@ -9,8 +9,9 @@
 
 ![header_](https://user-images.githubusercontent.com/80106274/155994781-7c22a80e-99b6-4e2e-a288-a706e1818289.png)
 
-It's great to connect! I'm a web developer with expertise in MERN, Next.js, and AWS, passionate about crafting intuitive and engaging web applications. With hands-on experience in Tailwind CSS, TypeScript, Prisma, and Shadcn UI, I constantly seek new challenges to refine my skills. I also have a solid foundation in SQL, Docker, and deployment techniques. I'm eager to contribute to innovative projects and grow as a developer in dynamic environments.
-
+It's great to connect! 
+<!--I'm a web developer with expertise in MERN, Next.js, and AWS, passionate about crafting intuitive and engaging web applications. With hands-on experience in Tailwind CSS, TypeScript, Prisma, and Shadcn UI, I constantly seek new challenges to refine my skills. I also have a solid foundation in SQL, Docker, and deployment techniques. I'm eager to contribute to innovative projects and grow as a developer in dynamic environments.
+-->
 
 <!--
 **Lakshay309/Lakshay309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
